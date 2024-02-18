@@ -1,6 +1,6 @@
 # Setup
 
-![Captura de tela de 2024-02-18 16-31-35](https://github.com/gbrcavalcante/setup/assets/140359835/54fc0cf8-3d95-4ad3-abc0-a9504e597ad9)
+![Captura de tela de 2024-02-18 16-31-35](https://github.com/gbrcavalcante/setup/assets/140359835/ff51aa23-47b5-4a85-b47c-5ee1ab08d400)
 Este projeto consiste em uma aplicação que permite criar elementos dinamicamente a partir de um array de objetos e oferece funcionalidades de filtragem e busca para facilitar a interação com os dados. O principal objetivo é proporcionar uma interface intuitiva para visualizar e gerenciar uma lista de itens.
 
 ## Funcionalidades
