@@ -2,6 +2,18 @@ const ul = document.querySelector("#ul");
 
 const listItems = [
   {
+    link: "https://www.amazon.com.br/https://www.kabum.com.br/produto/472908/monitor-gamer-lg-ultragear-lg-34-curvo-led-wqhd-ultrawide-160hz-1ms-displayport-e-hdmi-amd-freesync-premium-hdr10-99-srgb-34gp63a-b?gad_source=1&gclid=Cj0KCQjwlN6wBhCcARIsAKZvD5jvNwO0E5oMZ3VNqqLM_n8TouzQ36R2chWy33K1itcOzqBNI1pW6L8aAn3eEALw_wcBgp/product/B07PDHSJ1H/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1",
+    img: "monitor_ultragear",
+    title: "UltraGear LG 34 Curvo",
+    tag: "monitor",
+  },
+  {
+    link: "https://www.amazon.com.br/gp/https://pt.aliexpress.com/item/1005005665762317.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.5cb1JwduJwduC6&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40000.327270.0&scm_id=1007.40000.327270.0&scm-url=1007.40000.327270.0&pvid=5985a856-8f2e-4495-a540-910002a4c6fc&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40000.327270.0,pvid:5985a856-8f2e-4495-a540-910002a4c6fc,tpp_buckets:668%232846%238110%231995&pdp_npi=4%40dis%21BRL%21483.99%21183.27%21%21%2191.00%2134.46%21%402101e80317128937696871461ee4e8%2112000036873323628%21rec%21BR%21%21AB&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A&search_p4p_id=202404112049297251246927781165007005_0/B07PDHSJ1H/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1",
+    img: "mouse_rapoomt760",
+    title: "Mouse Rapoo MT760",
+    tag: "mouse",
+  },
+  {
     link: "https://www.amazon.com.br/gp/product/B07PDHSJ1H/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1",
     img: "alexa",
     title: "Echo Dot 3ª Geração",
