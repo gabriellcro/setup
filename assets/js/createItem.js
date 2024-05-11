@@ -2,6 +2,12 @@ const ul = document.querySelector("#ul");
 
 const listItems = [
   {
+    link: "https://shopee.com.br/PROMO%C3%87%C3%83O-LAN%C3%87AMENTO-!!-Mouse-Pad-Gamer-Profissional-Grande-70x35-Speed-Antiderrapante-i.359164659.16085796727",
+    img: "deskpad_ozzix",
+    title: "Deskpad Ozzix Gamer",
+    tag: "deskpad",
+  },
+  {
     link: "https://www.amazon.com.br/https://www.kabum.com.br/produto/472908/monitor-gamer-lg-ultragear-lg-34-curvo-led-wqhd-ultrawide-160hz-1ms-displayport-e-hdmi-amd-freesync-premium-hdr10-99-srgb-34gp63a-b?gad_source=1&gclid=Cj0KCQjwlN6wBhCcARIsAKZvD5jvNwO0E5oMZ3VNqqLM_n8TouzQ36R2chWy33K1itcOzqBNI1pW6L8aAn3eEALw_wcBgp/product/B07PDHSJ1H/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1",
     img: "monitor_ultragear",
     title: "UltraGear LG 34 Curvo",
@@ -115,7 +121,6 @@ const listItems = [
     title: "Logitech K380",
     tag: "teclado",
   },
-  
 ];
 
 for (let item of listItems) {
